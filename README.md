@@ -29,7 +29,7 @@
     ![Static Badge](https://img.shields.io/badge/%20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
     ![Static Badge](https://img.shields.io/badge/%20Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 
-- <img src="gifs/potPlant-magnifier.gif" alt="pot-plant-gif-with-magnifying-glass" height="32"> I’m currently focusing on [creative coding](https://github.com/ShannyxMP/Creative-Coding-Projects.git) using Javascript.
+- <img src="gifs/potPlant-magnifier.gif" alt="pot-plant-gif-with-magnifying-glass" height="32"> I’m currently focusing on [creative coding](https://github.com/ShannyxMP/Creative-Coding-Projects.git) using JavaScript.
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -39,5 +39,4 @@
 - 😄 Pronouns: ...
 -->
 
-- <img src="gifs/potPlant-gojo.gif" alt="pot-plant-gif-gojo" height="32"> Fun fact: I am learning Japanese.
-    </p>
+- <img src="gifs/potPlant-gojo.gif" alt="pot-plant-gif-gojo" height="32"> Fun fact: I am learning Japanese, and enjoy gouache and digital painting.
