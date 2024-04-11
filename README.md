@@ -1,12 +1,12 @@
-<h1 style="text-align:center"> <img src="gifs/potPlant-hi.gif" alt="pot-plant-gif-saying-hi"> Hi there! </h1>
+<h1 align="center"> <img src="gifs/potPlant-hi.gif" alt="pot-plant-gif-saying-hi"> Hi there! </h1>
 
-- <img src="gifs/potPlant-dance.gif" alt="pot-plant-gif-dancing" height="30"> My name is <strong>Shanny</strong>.
+- <img src="gifs/potPlant-dance.gif" alt="pot-plant-gif-dancing" height="32"> My name is <strong>Shanny</strong>.
 
-- <img src="gifs/potPlant-potion.gif" alt="pot-plant-gif-with-potion" height="30"> I am currently working in healthcare as a Respiratory Scientist and Sleep Technician, with some background in Cardiac.
+- <img src="gifs/potPlant-potion.gif" alt="pot-plant-gif-with-potion" height="32"> I am currently working in healthcare as a Respiratory Scientist and Sleep Technician, with some background in Cardiac.
 
-- <img src="gifs/potPlant-laptop.gif" alt="pot-plant-gif-with-laptop" height="30"> I aspire to transition into a Full-stack Web Developer and Software Engineer!
+- <img src="gifs/potPlant-laptop.gif" alt="pot-plant-gif-with-laptop" height="32"> I aspire to transition into a Full-stack Web Developer and Software Engineer!
 
-- <img src="gifs/potPlant-book.gif" alt="pot-plant-gif-with-book" height="30"> I am interested in learning Computer Science and Web Development.
+- <img src="gifs/potPlant-book.gif" alt="pot-plant-gif-with-book" height="32"> I am interested in learning Computer Science and Web Development.
 
   - Technologies I use and have dived into, seeking continuous development in:
 
@@ -29,7 +29,7 @@
     ![Static Badge](https://img.shields.io/badge/%20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
     ![Static Badge](https://img.shields.io/badge/%20Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 
-- <img src="gifs/potPlant-magnifier.gif" alt="pot-plant-gif-with-magnifying-glass" height="30"> I’m currently focusing on [creative coding](https://github.com/ShannyxMP/Creative-Coding-Projects.git) using Javascript.
+- <img src="gifs/potPlant-magnifier.gif" alt="pot-plant-gif-with-magnifying-glass" height="32"> I’m currently focusing on [creative coding](https://github.com/ShannyxMP/Creative-Coding-Projects.git) using Javascript.
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -39,5 +39,5 @@
 - 😄 Pronouns: ...
 -->
 
-- <img src="gifs/potPlant-gojo.gif" alt="pot-plant-gif-gojo" height="30"> Fun fact: I am learning Japanese.
+- <img src="gifs/potPlant-gojo.gif" alt="pot-plant-gif-gojo" height="32"> Fun fact: I am learning Japanese.
     </p>
