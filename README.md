@@ -6,7 +6,7 @@
 
 - <img src="gifs/potPlant-laptop.gif" alt="pot-plant-gif-with-laptop" height="32"> I aspire to transition into a Full-stack Web Developer and Software Engineer!
 
-- <img src="gifs/potPlant-book.gif" alt="pot-plant-gif-with-book" height="32"> I am interested in learning Computer Science and Web Development.
+- <img src="gifs/potPlant-book.gif" alt="pot-plant-gif-with-book" height="32"> I am actively exploring diverse domains within Computer Science and Web Development, including Cybersecurity, Game Design and Development, alongside a strong interest in UX/UI Design.
 
   - Technologies I use and have dived into, seeking continuous development in:
 
